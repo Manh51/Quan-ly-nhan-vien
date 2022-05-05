@@ -1,0 +1,302 @@
+30
+S100
+Nguyen Lan Nhi
+19/12/1997
+TDP Tru 5 Co Nhue 2 Bac Tu Liem Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S101
+Vu Thi Hue
+13/09/2002
+PTNT VN Nghia do Cau Giay Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S102
+Pham Quynh Mai
+11/12/2002
+Dai Dong Dại Mach Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S103
+Nguyen Thi Dung
+25/07/2002
+Trach Vinh Ngoc Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S104
+Hoang Thi Thanh Phuong
+02/12/2003
+Ap To Uy No Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S105
+Nguyen Thi Thao
+01/01/2002
+298/20 Ngoc Lam Ngoc Lam Long Bien Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S106
+Nguyen Minh Tra My
+11/04/2000
+Trieu Xuyen 3 Long Xuyen Phu Tho Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S107
+Tran Thi Ngoc Anh
+16/10/2000
+Lien Xuan Nam Son Soc Son Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S108
+Ung Thu Ha
+10/11/2002
+To 18 Dong Mai Ha Dong Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S109
+Trieu Thu Hang
+31/07/2001
+Do Dong Thanh Oai Ha Noi
+12/12
+2.42
+1490000
+600000
+San xuat
+2340000
+S110
+Nguyen Thi Kim Hue
+15/10/1998
+TDP Tru 5 Co Nhue 2 Bac Tu Liem Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S111
+Vuong Thuy Huong
+17/03/2001
+TDP Tru 5  Co Nhue 2 Bac Tu Liem Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S112
+Trieu Thi Yen
+28/10/2001
+PTNT VN Nghia do Cau Giay Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S113
+Phan Thi Duyen
+05/10/2002
+Dai Dong Dai Mach Dong Anh Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S114
+Tran Thi Thu Huong
+10/02/2002
+PTNT VN Nghia do Cau Giay Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S115
+Trinh Thu Phuong
+31/08/2000
+PTNT VN Nghia do Cau Giay Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S116
+Nguyen Thi Hai Yen
+07/10/2001
+Tuy Loc Cam Khe Phu Tho
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S117
+Nguyen Thi Thuong
+19/04/2000
+Thuy Dien Tan Lap Song Lo Vinh Phuc
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S118
+Nguyen Thi Van Anh
+12/11/2002
+Cam Vien Dai Tu Yen Lac Vinh Phuc
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S119
+Nguyen Thi Tam
+01/01/2002
+Trach Vinh Ngoc Dong Anh Ha Noi
+12/12
+2.42
+1490000
+700000
+QC
+2340000
+S120
+Bui Phuong Anh
+09/08/2002
+Dai Dong Dai Mach Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S121
+Nguyen Trang Nhung
+04/08/1999
+Trach Vinh Ngoc Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S122
+Luu Khanh Linh
+19/06/1998
+PTNT VN Nghia do Cau Giay Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S123
+Luong Minh Huyen
+30/12/2002
+PTNT VN Nghia do Cau Giay Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S124
+Nguyen Hoai Thu Thuy
+13/09/2002
+Ap To Uy No Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S125
+Nguyen Thi Thu Hau
+14/01/2002
+Trach Vinh Ngoc Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S126
+Pham Thi Ngoc Huyen
+02/11/1998
+298/20 Ngoc Lam Ngoc Lam Long Bien Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S127
+Tran Thi Kieu Trang
+02/10/2002
+Trach Vinh Ngoc Dong Anh Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S128
+Nguyen Hong Van
+26/03/2000
+Thon 4 Van Nam Phuc Tho Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+S129
+Pham Phuong Mai
+06/06/2002
+Cum 4 Lien Hiep Phuc Tho Ha Noi
+12/12
+2.42
+1490000
+600000
+Kho
+2340000
+

@@ -1,0 +1,91 @@
+30
+S100
+Nguyen Lan Nhi
+4205800
+S101
+Vu Thi Hue
+4205800
+S102
+Pham Quynh Mai
+4205800
+S103
+Nguyen Thi Dung
+4205800
+S104
+Hoang Thi Thanh Phuong
+4205800
+S105
+Nguyen Thi Thao
+4205800
+S106
+Nguyen Minh Tra My
+4205800
+S107
+Tran Thi Ngoc Anh
+4205800
+S108
+Ung Thu Ha
+4205800
+S109
+Trieu Thu Hang
+4205800
+S110
+Nguyen Thi Kim Hue
+4305800
+S111
+Vuong Thuy Huong
+4305800
+S112
+Trieu Thi Yen
+4305800
+S113
+Phan Thi Duyen
+4305800
+S114
+Tran Thi Thu Huong
+4305800
+S115
+Trinh Thu Phuong
+4305800
+S116
+Nguyen Thi Hai Yen
+4305800
+S117
+Nguyen Thi Thuong
+4305800
+S118
+Nguyen Thi Van Anh
+4305800
+S119
+Nguyen Thi Tam
+4305800
+S120
+Bui Phuong Anh
+4205800
+S121
+Nguyen Trang Nhung
+4205800
+S122
+Luu Khanh Linh
+4205800
+S123
+Luong Minh Huyen
+4205800
+S124
+Nguyen Hoai Thu Thuy
+4205800
+S125
+Nguyen Thi Thu Hau
+4205800
+S126
+Pham Thi Ngoc Huyen
+4205800
+S127
+Tran Thi Kieu Trang
+4205800
+S128
+Nguyen Hong Van
+4205800
+S129
+Pham Phuong Mai
+4205800

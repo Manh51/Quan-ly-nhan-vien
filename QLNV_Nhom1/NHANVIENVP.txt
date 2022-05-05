@@ -1,0 +1,51 @@
+5
+V400
+Chu Dieu Linh
+01/05/1998
+Lap Thanh Dong Xuan Quoc Oai Ha Noi
+Dai hoc
+3.49
+1490000
+600000
+Ke toan
+300000
+V401
+Truong Hai Ninh
+07/11/1997
+To 7 Cu Khoi Long Bien Ha Noi
+Dai hoc
+3.49
+1490000
+600000
+Tai chinh
+300000
+V402
+Quach Viet Anh
+02/11/1992
+To 7 Cu Khoi Long Bien Ha Noi
+Dai hoc 
+3.49
+1490000
+600000
+Nhan su
+300000
+V403
+Bui Duy Huong
+13/06/1994
+Du Tien Thanh Thuy Thanh Oai Ha Noi
+Dai hoc
+3.49
+1490000
+600000
+Cham soc khach hang
+300000
+V404
+Pham Thi Hieu
+10/07/1996
+TDP Tru 5 Co Nhue 2 Bac Tu Liem Ha Noi
+Dai hoc 
+3.49
+1490000
+600000
+Marketing
+300000
